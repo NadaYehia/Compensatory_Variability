@@ -2,7 +2,9 @@
 https://github.com/aclinlab/CompensatoryVariability.git
 
 # CompensatoryVariability 
-This code can be used to recreate the results and the main figures in Abdelrahman, Vasilaki and Lin 2021: 
+This code can be used to recreate the results and the main figures in Abdelrahman, Vasilaki and Lin 2021:
+https://www.pnas.org/doi/10.1073/pnas.2102158118?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed
+
 Compensatory variability in network parameters enhances memory performance in the Drosophila mushroom body.
 
 The code is organised in the following subfolders:
